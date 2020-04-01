@@ -1,8 +1,9 @@
 .hero {
-    background-position: bottom;
     height: auto;
     text-align: center;
     margin-bottom: 40px;
+    background-attachment: fixed;
+    background-position: 80%;
 }
 .page-title {
     color: #fce138;
